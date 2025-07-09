@@ -1,0 +1,4 @@
+............Docs...........
+
+1. then open terminal in your vs code -> type 'npm i' -> then type 'npm run dev'
+2. Boom! your project is not running on you localhost:5173  

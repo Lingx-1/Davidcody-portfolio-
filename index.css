@@ -1,0 +1,16 @@
+/*CSS */
+/*https://github.com/lingxi-1*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ * {
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling:100%;
+  overflow: hidden;
+}
+
+@font-face {
+  font-family:New 'Times New Roman', Times, serif;
+  src: url('https://googlefonts.com');
+}
